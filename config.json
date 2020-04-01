@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/bermudezjose/metadatos/master/feat_covid.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/bermudezjose/metadatos/master/covid_metadata.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/bermudezjose/metadatos/blob/master/sprite_covid_image.png",
+        "singleImageDim": [
+          32,
+          32
+        ]
+      }
+    }
+  ]
+} 
